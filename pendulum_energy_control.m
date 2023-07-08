@@ -38,7 +38,7 @@ xlabel('x');
 ylabel('y');
 
 % Create GIF
-filename = 'energy_control_pendulum_animation.gif';
+filename = 'pendulum_energy_control_animation.gif';
 frames = [];
 
 while norm(x-x_des) > eps
