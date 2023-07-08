@@ -1,5 +1,4 @@
 % Energy control method applied to pendulum
-% with pendulum written as a control affine system
 % NOTE: theta = 0 is defined to be verticaly upwards here
 
 clear; clc; close all; format compact;
